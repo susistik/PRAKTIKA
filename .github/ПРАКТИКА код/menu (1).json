@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "ЫЦЦ",
+        "price": 121,
+        "category": "Выпечка",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 2,
+        "name": "212",
+        "price": 111,
+        "category": "Десерты",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 3,
+        "name": "21",
+        "price": 112,
+        "category": "Салаты",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 4,
+        "name": "Блюдо 4",
+        "price": 205,
+        "category": "Выпечка",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": false,
+        "vegetarian": false
+    },
+    {
+        "id": 5,
+        "name": "Блюдо 5",
+        "price": 153,
+        "category": "Салаты",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 6,
+        "name": "Блюдо 6",
+        "price": 424,
+        "category": "Напитки",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 7,
+        "name": "Блюдо 7",
+        "price": 400,
+        "category": "Салаты",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 8,
+        "name": "Блюдо 8",
+        "price": 483,
+        "category": "Напитки",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": true,
+        "vegetarian": false
+    },
+    {
+        "id": 9,
+        "name": "Блюдо 9",
+        "price": 178,
+        "category": "Напитки",
+        "description": "Вкусное блюдо с уникальным вкусом и свежими ингредиентами.",
+        "popular": false,
+        "vegetarian": true
+    }
+]

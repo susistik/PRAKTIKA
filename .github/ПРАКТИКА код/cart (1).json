@@ -1,0 +1,32 @@
+[
+    {
+        "id": 25,
+        "name": "YFaf",
+        "price": 123,
+        "quantity": 3
+    },
+    {
+        "id": 22,
+        "name": "Блюдо 22",
+        "price": 313,
+        "quantity": 2
+    },
+    {
+        "id": 2,
+        "name": "Блюдо 2",
+        "price": 322,
+        "quantity": 3
+    },
+    {
+        "id": 1,
+        "name": "Блюдо 1",
+        "price": 401,
+        "quantity": 4
+    },
+    {
+        "id": 23,
+        "name": "Блюдо 23",
+        "price": 285,
+        "quantity": 1
+    }
+]

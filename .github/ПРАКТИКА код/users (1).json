@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Екатерина",
+        "email": "molotovaekaterina028@gmail.com",
+        "password": "$2y$10$GkApnYgK7Vke0LtH9AT8p.SvlIu8jWfHB0Pxwz3fTykxrR3tihBDe",
+        "role": "user"
+    },
+    {
+        "id": 2,
+        "name": "Алина",
+        "email": "alina.belonenkoo15@gmail.com",
+        "password": "$2y$10$IEH4SuR6G2wqeE1ncebrl.K9d757yUeZzdEjCx1DLjoxMPU29pGS6",
+        "role": "user"
+    },
+    {
+        "id": 3,
+        "name": "Алексей",
+        "email": "av@7976440gmail.com",
+        "password": "$2y$10$fX.X9o8uPKouhQCLK7Ag5uafzI1iKz6E.yymlPPUJXtrhyrAVHlNi",
+        "role": "admin"
+    },
+    {
+        "id": 4,
+        "name": "Дмитрий Баринов",
+        "email": "TheOpaAndezit@yandex.ru",
+        "password": "$2y$10$rAJGKer3\/pswvtRNu0B3jeVRKnYl8Sx46DicS9JxA2QCuR5bEDafS",
+        "role": "admin"
+    },
+    {
+        "id": 5,
+        "name": "Прпрпр",
+        "email": "konstantinos664@mail.ru",
+        "password": "$2y$10$lTa4nt2jPephwOCqWWaed.i9M1kCkdhtZ3kzQanblZb0gQnHwUldG",
+        "role": "user"
+    },
+    {
+        "id": 6,
+        "name": "Елена",
+        "email": "moslenok@gmail.com",
+        "password": "$2y$10$O1RDK9j8ZREsdl7PRnsb6e8XzAkuXA7C8eREP7u78Tvr438HQweRW",
+        "role": "user"
+    },
+    {
+        "id": 7,
+        "name": "Гузель",
+        "email": "as@as.com",
+        "password": "$2y$10$pw7QGe96sBsHBR3Rf0VeauII8TBF.2Jzn6MK15TnpbFM\/37k9kpHG",
+        "role": "user"
+    }
+]
